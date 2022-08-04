@@ -1,7 +1,14 @@
 deployment.apps/my-flask-app created
 NAME                            READY   STATUS    RESTARTS   AGE
-my-flask-app-7c5c7bf4d4-5xm8w   1/1     Running   0          2m30s
+my-flask-app-7c5c7bf4d4-tflg8   1/1     Running   0          97s
 service/my-flask-app exposed
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 Handling connection for 8000
+
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
