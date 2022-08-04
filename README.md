@@ -1,4 +1,7 @@
-<include a CircleCI status badge, here>
+<!-- [![Odigie02](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs) -->
+
+
+[![Odigie02](https://circleci.com/gh/Odigie02/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/Odigie02/project4)
 
 ## Project Overview
 
